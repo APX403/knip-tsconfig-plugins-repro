@@ -1,0 +1,10 @@
+{
+  "name": "knip-tsconfig-plugins-repro",
+  "private": true,
+  "scripts": {
+    "knip": "knip"
+  },
+  "devDependencies": {
+    "knip": "6.43.0"
+  }
+}
